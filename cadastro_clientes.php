@@ -85,7 +85,7 @@ if(mysqli_num_rows($resultado) > 0) {
             
         while($dados = mysqli_fetch_assoc($resultado)) {
             echo"<tr>";
-            echo "<td>" . $dados['nome']."</td";
+            echo "<td>" . $dados['nome']."</td>";
 
             echo "<td>". $dados['telefone'] . "</td>";
             
