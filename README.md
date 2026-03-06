@@ -10,8 +10,11 @@ Conexao com banco de dados
 
 ## Tecnologias usadas
 PHP
+
 MYSQL
+
 HTML
+
 XAMPP
 
 ## Autor
